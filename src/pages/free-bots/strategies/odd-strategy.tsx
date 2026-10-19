@@ -22,7 +22,7 @@ NB: AFTER 3 TO 7 RUNS MAX ON PROFITS, STOP THE BOT TO CONFIRM THE MARKET CONDITI
 BARS COLOR KEY:
 RED: LEAST APPEARING DIGIT, YELLOW: 2ND LEAST APPEARING, GREEN: MOST APPEARING, BLUE: 2ND MOST APPEARING.
 
-USE WWW.DBOTSPACE.COM TO TRADE`;
+USE WWW.DYLANTRADES.SITE TO TRADE`;
 
         const blob = new Blob([content], { type: 'text/plain' });
         const url = URL.createObjectURL(blob);
@@ -66,7 +66,7 @@ USE WWW.DBOTSPACE.COM TO TRADE`;
                     </button>
                     <button className='strategy-viewer__toolbar-btn' title='Audio'>
                         <svg width='16' height='16' viewBox='0 0 24 24' fill='currentColor'>
-                            <path d='M3 9v6h4l5 5V4L7 9H3zm13.5 3c0-1.77-1.02-3.29-2.5-4.03v8.05c1.48-.73 2.5-2.25 2.5-4.02zM14 3.23v2.06c2.89.86 5 3.54 5 6.71s-2.11 5.85-5 6.71v2.06c4.01-.91 7-4.49 7-8.77s-2.99-7.86-7-8.77z' />
+                            <path d='M3 9v6h4l5 5V4L7 9H3zm13.5 3c0-1.77-1.02-3.29-2.5-4.03v8.05c1.48-.73 2.5-2.25 2.5-4.02zM14 3.23v2.06c2.89.86 5 3.54 5 6.71s-2.11 5.85-5 6.71v2.06c4.01-.91 7-4.[...]' />
                         </svg>
                     </button>
                 </div>
@@ -90,7 +90,7 @@ USE WWW.DBOTSPACE.COM TO TRADE`;
                             <div className='strategy-detail'>
                                 <h5 className='strategy-detail__title'>1. GREEN & BLUE BARS SHOULD BOTH BE ON ODD DIGITS HAVING 11%+</h5>
                                 <p className='strategy-text'>
-                                    Both the green (most appearing) and blue (2nd most appearing) bars must be positioned on odd digits (1, 3, 5, 7, 9) and each should have a percentage of 11% or higher.
+                                    Both the green (most appearing) and blue (2nd most appearing) bars must be positioned on odd digits (1, 3, 5, 7, 9) and each should have a percentage of 11% or [...]
                                 </p>
                             </div>
 
@@ -142,7 +142,7 @@ USE WWW.DBOTSPACE.COM TO TRADE`;
                     </section>
 
                     <div className='strategy-footer'>
-                        <p className='strategy-footer__text'>USE WWW.DBOTSPACE.COM TO TRADE</p>
+                        <p className='strategy-footer__text'>USE WWW.DYLANTRADES.SITE TO TRADE</p>
                     </div>
                 </div>
             </div>
@@ -151,4 +151,3 @@ USE WWW.DBOTSPACE.COM TO TRADE`;
 };
 
 export default OddStrategy;
-

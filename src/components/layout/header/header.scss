@@ -71,7 +71,7 @@
 
         &__text {
             display: flex;
-            flex-direction: column; // Stack vertically: DBOTSPACE on top, POWERED BY DERIV below
+            flex-direction: column; // Stack vertically: DylanTrades on top, POWERED BY DERIV below
             align-items: flex-start; // Align to left
             gap: 0.1rem; // Small gap between lines
             line-height: 1.2;
@@ -99,7 +99,7 @@
         }
 
         .deriv-word {
-            font-size: 1rem; // Main text "DBOTSPACE" (first line)
+            font-size: 1rem; // Main text "DylanTrades" (first line)
             font-weight: 700;
             color: #1e40af; // Dark blue like active tab
             white-space: nowrap;

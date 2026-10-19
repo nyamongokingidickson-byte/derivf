@@ -18,7 +18,7 @@ CONDITIONS FOR OVER PREDICTION:
 
 ENTRY POINT: Wait for the tick pointer to pick the least appearing among digit 1,2 & 3, if within the next 1 tick the pointer picks any digit from 4 to 9, enter immediately.
 
-USE WWW.DBOTSPACE.COM TO TRADE
+USE WWW.DYLANTRADES.SITE TO TRADE
 
 2. UNDER 8,7,6 STRATEGY
 
@@ -33,7 +33,7 @@ ENTRY POINT: Wait for the tick pointer to pick the least appearing among digit 8
 Proverbs 21:5
 "The plans of the diligent lead surely to abundance, but everyone who is hasty comes only to poverty."
 
-USE WWW.DBOTSPACE.COM TO TRADE`;
+USE WWW.DYLANTRADES.SITE TO TRADE`;
 
         const blob = new Blob([content], { type: 'text/plain' });
         const url = URL.createObjectURL(blob);
@@ -77,7 +77,7 @@ USE WWW.DBOTSPACE.COM TO TRADE`;
                     </button>
                     <button className='strategy-viewer__toolbar-btn' title='Audio'>
                         <svg width='16' height='16' viewBox='0 0 24 24' fill='currentColor'>
-                            <path d='M3 9v6h4l5 5V4L7 9H3zm13.5 3c0-1.77-1.02-3.29-2.5-4.03v8.05c1.48-.73 2.5-2.25 2.5-4.02zM14 3.23v2.06c2.89.86 5 3.54 5 6.71s-2.11 5.85-5 6.71v2.06c4.01-.91 7-4.49 7-8.77s-2.99-7.86-7-8.77z' />
+                            <path d='M3 9v6h4l5 5V4L7 9H3zm13.5 3c0-1.77-1.02-3.29-2.5-4.03v8.05c1.48-.73 2.5-2.25 2.5-4.02zM14 3.23v2.06c2.89.86 5 3.54 5 6.71s-2.11 5.85-5 6.71v2.06c4.01-.91 7-4.[...]' />
                         </svg>
                     </button>
                 </div>
@@ -119,7 +119,7 @@ USE WWW.DBOTSPACE.COM TO TRADE`;
                                 </p>
                             </div>
 
-                            <p className='strategy-bots'>USE WWW.DBOTSPACE.COM TO TRADE</p>
+                            <p className='strategy-bots'>USE WWW.DYLANTRADES.SITE TO TRADE</p>
                         </div>
                     </section>
 
@@ -148,7 +148,7 @@ USE WWW.DBOTSPACE.COM TO TRADE`;
                                 </p>
                             </div>
 
-                            <p className='strategy-bots'>USE WWW.DBOTSPACE.COM TO TRADE</p>
+                            <p className='strategy-bots'>USE WWW.DYLANTRADES.SITE TO TRADE</p>
                         </div>
                     </section>
 
@@ -172,4 +172,3 @@ USE WWW.DBOTSPACE.COM TO TRADE`;
 };
 
 export default OverUnderStrategy;
-
